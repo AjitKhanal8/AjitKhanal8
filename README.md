@@ -1,5 +1,6 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ajit Khanal 
+
 Economist(M.S.). Researcher.Data Scientist
 
 Currently I am a Graduate Research Assistant in the Department of Agricultural and Applied Economics at the University of Georgia. I am about to graduate in the spring of 2023. I have experience modeling economic phenomena and using econometric and machine learning models to make sense of the data. 
