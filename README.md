@@ -7,8 +7,8 @@ Published in the *Journal of Agricultural and Applied Economics*.
 ## Overview
 
 - **Data Cleaning & Manipulation:** Python  
-- **Data Analysis:** Mathematica  
-- **Visualizations:** Tableau  
+- **Data Analysis:** Mathematica ([View Notebook](https://www.wolframcloud.com/env/ajitk/pe_analysis.nb))  
+- **Visualizations:** Tableau
 
 For any inquiries, feel free to reach out:  
 [ajitk@vt.edu](mailto:ajitk@vt.edu)
